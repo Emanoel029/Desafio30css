@@ -32,3 +32,19 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 
 ![ezgif com-animated-gif-maker (1)](https://github.com/Emanoel029/Desafio30css/assets/138140487/6c2ebba7-d284-499c-8577-65f34653f071)
 
+<h1>Desafio dia 06 - Loader animado</h1>
+
+![login](https://github.com/Emanoel029/Desafio30css/assets/138140487/89316a5b-45ab-41fc-a60a-b66541f5a66b)
+
+<h1>Desafio dia 07 - Preloader animado</h1>
+
+![ezgif com-animated-gif-maker (3)](https://github.com/Emanoel029/Desafio30css/assets/138140487/6e8a0056-aeeb-47d0-b678-540ba29abfae)
+
+<h1>Desafio dia 08 - Coração batendo</h1>
+
+![coracao](https://github.com/Emanoel029/Desafio30css/assets/138140487/0eb360e0-4c12-4221-8649-d77adf64f714)
+
+<h1>Desafio dia 09 - Pendulo de Newton</h1>
+
+![pendulo](https://github.com/Emanoel029/Desafio30css/assets/138140487/f0755765-8d95-4b9d-bddf-c37375db15e9)
+
