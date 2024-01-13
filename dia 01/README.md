@@ -1,12 +1,8 @@
 <h1>🚀 30diasDeCSS 🚀</h1>
-Fala Devs, beleza? 🖖
+<h2>Dia 01</h2>
+<p>Praticando HTML e CSS</p>
 
-30 dias de CSS3, é um desafio que visa ajudá-los a melhorar suas habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3
+![ezgif com-animated-gif-maker (1)](https://github.com/Emanoel029/Desafio30css/assets/138140487/605b259b-bba0-4260-9a8b-850116ded5ce)
 
-<h1>Objetivo</h1>
-30 dias de CSS3 (e você também pode participar) que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de projetos
 
-Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não tem data de inicio fixa, cada um faz os seus 30 dias, Bora participar? 😉
 
-<h1>Youtube Referencias</h1>
-<a href="https://www.youtube.com/@DarkCodeOnline/videos"><p>DarkCode</p></a>
