@@ -28,4 +28,7 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 
 ![ezgif com-animated-gif-maker](https://github.com/Emanoel029/Desafio30css/assets/138140487/79b3334c-6a0e-42aa-b3bf-f4787d658601)
 
+<h1>Desafio dia 05 - Efeito lightning text</h1>
+
+![ezgif com-animated-gif-maker (1)](https://github.com/Emanoel029/Desafio30css/assets/138140487/6c2ebba7-d284-499c-8577-65f34653f071)
 
